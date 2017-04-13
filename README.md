@@ -1,0 +1,2 @@
+# logistic_regression
+使用随机梯度上升法求逻辑回归算法最佳参数
