@@ -1,6 +1,8 @@
 # logistic_regression
 使用随机梯度上升法求逻辑回归算法最佳参数
-###环境配置
+
+
+### 环境配置
 - Python 2.7
 - Numpy matplotlib random
 
